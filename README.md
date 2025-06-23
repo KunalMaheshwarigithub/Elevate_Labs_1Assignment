@@ -28,6 +28,11 @@ The objective of this SQL project is to simulate the core functionalities of Lin
 
 ---
 
+**Note**
+In this Assignement,
+I have taken heip from ChatGPT for managing github, Linkedin for Understanding and Designing Schema and the Apna College YouTube channel for SQL Tutorial just for revision basis.
+
+---
 ## Database Structure & Table Descriptions
 
 ### `user`
